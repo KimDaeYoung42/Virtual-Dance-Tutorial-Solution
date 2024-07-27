@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/28988b10-35c9-4d1a-a847-e8ba2c503d73)[ 가상  댄스  튜토리얼  솔루션  ]   
+[ 가상  댄스  튜토리얼  솔루션  ]   
 모션캡처 기술활용 가상댄스 튜토리얼   
 
 대표학생 : 김대영 (로그메타 팀)    
@@ -20,13 +20,13 @@
 
 [ 테스트 모드 - 선택지 1 ]    
 ![image](https://github.com/user-attachments/assets/9694125f-01d0-469b-9a43-35678665b30d)    
-https://github.com/user-attachments/assets/e3bc6bfa-0803-4b8f-8885-1dde9c855ac4
+시연 영상 : https://github.com/user-attachments/assets/e3bc6bfa-0803-4b8f-8885-1dde9c855ac4   
 웹캠 '사용자 움직임'을 캐릭터가 따라 한다.     
 (원본 영상 춤 X, 사용자 춤 O)    
 
 [ 테스트 모드 - 선택지 2 ]    
 ![image](https://github.com/user-attachments/assets/b23464c1-3b74-417f-886d-8bcfca89d518)    
-https://github.com/user-attachments/assets/5c05cf12-9859-4499-8be1-e3c256e79d37
+시연 영상 : https://github.com/user-attachments/assets/5c05cf12-9859-4499-8be1-e3c256e79d37   
 '원본 영상 속 인물 움직임'을 캐릭터가 따라 한다.     
 (원본 영상 춤 O, 사용자 춤 X)    
 
