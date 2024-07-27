@@ -72,4 +72,73 @@ https://arxiv.org/pdf/2307.05853v2.pdf
 * 동작 유사도 분석 
 - 코사인 유사도, DTW 
 
+--------------------------------------------------------------------------------------
+[Virtual dance tutorial solution]   
+Virtual Dance Tutorial Using Motion Capture Technology   
 
+Representative Student: Kim Dae-young (Logmeta Team)   
+Participating students: Kim Dae-young, Shim Woo-hyun, Park Ji-hoon   
+
+[Virtual dance tutorial solution]   
+The user will join the virtual character   
+It's a solution where you can learn and practice dancing.   
+
+▲ Use general equipment (PC, webcam) rather than professional equipment   
+▲ Real-time tracking of users   
+▲ Calculate accuracy (feedback) between the original video and the user's dance video   
+▲ Dance with Virtual Characters   
+
+[Result of his work]   
+[MODE CHOICE (Test mode/Practice mode)]   
+
+[Test mode - Option 1]   
+The character imitates the webcam 'user movement'.   
+(Original video dance X, user dance O)   
+
+[Test mode - Option 2]   
+The character imitates the movement of the character in the original video.   
+(O original video dance, X user dance)   
+
+[Practice mode (feedback provided)]   
+Provide similarity comparison feedback (Euclidean distance)   
+
+
+---------------------------------------------------------------------------------------
+(1) a reference book   
+"Introduction to UNI.T for beginners". - Hanbit Media   
+"Retro's Unity Game Programming Essence". - Hanbit Media   
+"Life UNI.T. textbook" – Sung Andang   
+
+(2) Reference Library   
+ThreeDPoseUnityBarracuda   
+Libraries that allow Unity to move characters using Barracuda   
+UniVRM 0.51.1   
+Library for dealing with VRM models in Unity   
+BVH Tools BVH (Biovision Hierarchy)   
+Tools to process files and import animation data   
+Unity Standalone File Browser 1.2   
+Standalone file browser that provides an Open/Save file dialog in Unity   
+uOSC 0.0.2   
+Library for using the Open Sound Control (OSC) protocol in Unity   
+Unity Capture   
+A tool that allows Unity to record or stream your screen by providing video capture capabilities   
+Oculus Lipsync Unity 20.0.0   
+Unity Plug-in for Live Lip Sync Animation from Oculus   
+Final IK   
+Plug-in provides advanced inverse kinematics (IK) solutions for character animation in Unity   
+The Charterhouse Great Chamber glTF Data   
+Data set that stores The Charterhouse's Great Chamber in glTF format   
+
+
+(3) a reference paper   
+A-simple-yet-effective-baseline-for-3d-human-pose-estimation   
+A study that proposes a simple but effective baseline for 3D human pose estimation   
+3D Human Posture Estimation AI   
+
+HumanEVA-I model   
+https://arxiv.org/abs/2103.14304   
+https://arxiv.org/pdf/2303.11579v1.pdf   
+https://arxiv.org/pdf/2307.05853v2.pdf   
+
+Behavioral Similarity Analysis   
+Cosine Similarity, DTW   
